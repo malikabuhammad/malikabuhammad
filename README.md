@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning **Cloud Technologies** and **Design Patterns**.  
 - 👯 I’m open to collaborating on exciting development projects.  
 - 💬 Ask me about .NET, C#, or backend architecture.  
-- 📫 How to reach me: malik.abuhammad@example.com (replace with your actual email).
 
 ### 🛠️ Skills:
 - **Languages**:  
