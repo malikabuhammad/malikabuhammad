@@ -10,13 +10,19 @@
 
  I specialize in creating efficient and scalable solutions with .NET technologies, and who knows? I might even dive into full-stack development—I like doing a bit of everything. If you're looking for well-crafted code,  or handy tools, you've come to the right place.
 
-<### 🌟 **Quick Facts About Me**:
+### 🌟 **Quick Facts About Me**:
 
 - 🔭 I’m currently working on enhancing backend systems and APIs.  
 - 🌱 I’m currently learning **Cloud Technologies** and **Design Patterns**.  
 - 👯 I’m open to collaborating on exciting development projects.  
 - 💬 Ask me about .NET, C#, or backend architecture.  
 - 📫 How to reach me: malik.abuhammad@example.com (replace with your actual email).
+
+### 🛠️ Skills:
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23051257.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### 📫 How to reach me
 
 <div display="flex">
