@@ -2,26 +2,32 @@
  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+AM+Malik+Abuhammad)](https://git.io/typing-svg)
-> [!IMPORTANT]
-> Hey, I'm **Malik Abuhammad**!
->
+### Welcome to my GitHub profile! 👨‍💻
 
-> If you enjoy my code, blogs, or tools, feel free to reach out and connect!
+> 🛠️ **.NET Backend Developer**  
+> 🌐 **Aspiring Full Stack Developer**  
+> 🎨 **Problem Solver**  
 
----
- 
- 
-<!--
-**malikabuhammad/malikabuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I specialize in creating efficient and scalable solutions with .NET technologies, and who knows? I might even dive into full-stack development—I like doing a bit of everything. If you're looking for well-crafted code,  or handy tools, you've come to the right place.
 
-Here are some ideas to get you started:
+<### 🌟 **Quick Facts About Me**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on enhancing backend systems and APIs.  
+- 🌱 I’m currently learning **Cloud Technologies** and **Design Patterns**.  
+- 👯 I’m open to collaborating on exciting development projects.  
+- 💬 Ask me about .NET, C#, or backend architecture.  
+- 📫 How to reach me: malik.abuhammad@example.com (replace with your actual email).
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/malik-abuhammad">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:malik.shaher16@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+### ⚡ Fun Fact:  
+You look good today, my friend! 😄
+
