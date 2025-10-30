@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### **.NET ARCHITECT & CODE ARTISAN**
+### **.NET Developer **
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&duration=4000\&pause=1000\&color=00FF00\&width=600\&lines=CRAFTING+SCALABLE+SYSTEMS+⚡;DESIGNING+CLEAN+ARCHITECTURE+🎯;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&duration=4000\&pause=1000\&color=00FF00\&width=600\&lines=CRAFTING+SCALABLE+SYSTEMS;DESIGNING+CLEAN+ARCHITECTURE;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME)](https://git.io/typing-svg)
 
 </div>
 
