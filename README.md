@@ -12,10 +12,10 @@
 
 ### 🌟 **Quick Facts About Me**:
 
-- 🔭 I’m currently working on enhancing backend systems and APIs.  
-- 🌱 I’m currently learning **Cloud Technologies** and **Design Patterns**.  
-- 👯 I’m open to collaborating on exciting development projects.  
-- 💬 Ask me about .NET, C#, or backend architecture.  
+-  I’m currently working on enhancing backend systems and APIs.  
+-  I’m currently diving into **System archtecture** ,**Cloud Technologies** , **Design Patterns**.  
+-  I’m open to collaborating on exciting development projects.  
+-  Ask me about .NET, C#, or backend architecture.  
 
 ### 🛠️ Skills:
 - **Languages**:  
