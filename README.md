@@ -17,23 +17,46 @@
 I specialize in creating efficient and scalable solutions with .NET technologies, and who knows? I might even dive into full-stack development—I like doing a bit of everything. If you're looking for well-crafted code or handy tools, you've come to the right place.
 
 ```csharp
-public class MalikAbuhammad : ISoftwareEngineer
+public sealed class MalikAbuhammad : ISoftwareEngineer
 {
-    public string[] Specialties = { ".NET Development", "System Architecture", "Cloud Solutions" };
-    public string CurrentFocus = "Building scalable backend systems & mastering cloud technologies";
-    public string Philosophy = "Code should be both functional and beautiful";
-    
+    public IReadOnlyList<string> Specialties => 
+        new[] 
+        { 
+            ".NET Development", 
+            "ASP.NET MVC", 
+            "System Architecture", 
+            "Design Patterns", 
+            "ADO.NET & Data Access", 
+            "Stored Procedures", 
+            "Clean Architecture"
+        };
+
+    public string CurrentFocus => 
+        "Engineering resilient backend systems through clean architecture and precision design.";
+
+    public string Philosophy => 
+        "Code must express logic as clearly as mathematics and flow as elegantly as art.";
+
     public void DailyRoutine()
     {
-        while(true)
+        while (true)
         {
+            ArchitectSystems();
+            ImplementPatterns();
             WriteCleanCode();
-            DesignScalableSystems();
-            LearnNewTechnologies();
-            DrinkCoffee(); // ☕ Essential!
+            OptimizeQueries();
+            RefactorRelentlessly();
+            Consume("Coffee"); // Essential 
         }
     }
+
+    private void ArchitectSystems() => DesignScalableSystems();
+    private void ImplementPatterns() => ApplySOLIDPrinciples();
+    private void OptimizeQueries() => TuneDataAccessLayer();
+    private void RefactorRelentlessly() => PolishEveryLine();
+    private void Consume(string fuel) => Console.WriteLine($"Fueled by {fuel}");
 }
+
 ```
 
 ---
