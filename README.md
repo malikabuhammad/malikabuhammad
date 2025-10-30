@@ -37,6 +37,7 @@ public class MalikAbuhammad : ISoftwareEngineer
 ```
 ⚡ TECHNOLOGY ARSENAL
 🎨 Core Languages
+``` html
 <div align="center">
 
 https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black
@@ -78,6 +79,7 @@ https://img.shields.io/badge/%E2%9A%A1_CQRS-0078D7?style=for-the-badge&logo=micr
 https://img.shields.io/badge/%F0%9F%8E%AF_SOLID-000000?style=for-the-badge&logo=codeforces&logoColor=white
 https://img.shields.io/badge/%F0%9F%8E%A8_Design_Patterns-444444?style=for-the-badge&logo=codeproject&logoColor=white
 </div>
+```
 📈 CURRENT MISSIONS
 
     🔥 Building: Next-gen backend systems with .NET 8
