@@ -37,10 +37,16 @@
 
 
 - **Architecture & Design**:  
-  - Design Patterns (e.g., Singleton, Factory, Repository)
-  - Microservices Architecture
-  - RESTful APIs
-  - Clean Code Principles
+  ![MVC](https://img.shields.io/badge/MVC-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![RESTful API](https://img.shields.io/badge/RESTful%20API-0081CB.svg?style=for-the-badge&logo=swagger&logoColor=white)
+  ![Microservices](https://img.shields.io/badge/Microservices-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-512BD4.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-68217A.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![CQRS](https://img.shields.io/badge/CQRS-0078D7.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+  ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-000000.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+  ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-444444.svg?style=for-the-badge&logo=codeproject&logoColor=white)
+
 
 - **Tools & Platforms**:  
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
