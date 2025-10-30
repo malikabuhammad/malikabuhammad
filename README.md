@@ -7,8 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&width=600&lines=CRAFTING+SCALABLE+SYSTEMS+⚡;DESIGNING+CLEAN+ARCHITECTURE+🎯;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME+💻)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikabuhammad&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikabuhammad&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
