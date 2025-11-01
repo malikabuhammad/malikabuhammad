@@ -183,9 +183,6 @@ public sealed class MalikAbuhammad : ISoftwareEngineer
 
 <div align="center">
 
-🎵 **WHILE I CODE THE FUTURE...**
 *"Clean code always looks like it was written by someone who cares." — Michael Feathers*
-
-🌟 Feel free to explore my repositories and get in touch!
 
 </div>
